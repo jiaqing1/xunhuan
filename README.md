@@ -1,5 +1,8 @@
 # xunhuan
 1.操场上100多⼈人排队，三⼈人⼀一组多1⼈人，四⼈人⼀一组多2⼈人，五⼈人⼀一组多3⼈人，共 
+
+
+
         for(let num=100;num<200;num++){
         if(num%3==1&&num%4==2&&num%5==3){
             document.write(num)
